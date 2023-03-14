@@ -1,0 +1,27 @@
+.main{
+    background-color: rgb(64, 83, 123);
+    height: auto;
+    width: fit-content;
+    display: flex;
+    align-items:flex-end;
+  }
+  .btn{
+    height: 40px;
+    width: 255px;
+    font-size: larger;
+    background-color: #f9f5f5;
+    color: rgb(11, 10, 10);
+    font-weight: bold;
+    border-radius: 10px;
+    
+  }
+  .sub{
+  display: flex;
+  align-items: center;
+  justify-content:center;
+  border-radius: 10px;
+  width: 40px;
+  margin: 5px;
+  background-color: #80568b;
+  border: 2px solid #f8f7f7;
+}

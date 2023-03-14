@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nadgeSachin/dsaVisualizer.git/static/css/main.b7ead533.css",
+    "main.js": "/nadgeSachin/dsaVisualizer.git/static/js/main.e2e7d569.js",
+    "index.html": "/nadgeSachin/dsaVisualizer.git/index.html",
+    "main.b7ead533.css.map": "/nadgeSachin/dsaVisualizer.git/static/css/main.b7ead533.css.map",
+    "main.e2e7d569.js.map": "/nadgeSachin/dsaVisualizer.git/static/js/main.e2e7d569.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7ead533.css",
+    "static/js/main.e2e7d569.js"
+  ]
+}

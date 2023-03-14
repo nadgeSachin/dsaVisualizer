@@ -1,25 +1,14 @@
-import logo from './logo.svg';
-import './App.css';
+// import BubbleSortVisualizer1 from "./BubbleSortVisualizer1";
+// import SudokuVisualizer from "./SudokuVisualizer"
+// import InsertionSortVisualizer from "./InsertionSortVisualiser";
+const App=()=>{
+  return(
+    <>
+    {/* <BubbleSortVisualizer1/> */}
+    {/* <InsertionSortVisualizer/> */}
+    {/* <SudokuVisualizer/> */}
+    </>
+  )}
+ export default App;
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
 
-export default App;
